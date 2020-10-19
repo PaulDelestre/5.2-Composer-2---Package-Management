@@ -1,0 +1,19 @@
+{
+    "name": "pauldelestre/bin",
+    "description": "Projet_quete_composer",
+    "authors": [
+        {
+            "name": "PaulDelestre",
+            "email": "71083544+PaulDelestre@users.noreply.github.com"
+        }
+    ],
+    
+    "autoload": {
+        "psr-4": {"src\\": "src"}
+    },
+
+
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2"
+    }
+}
